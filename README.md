@@ -5,4 +5,4 @@ Pages publiques de l'app iOS « Retouche PDF » : présentation, politique de co
 - Confidentialité : https://antonin06340.github.io/retouche-pdf/confidentialite.html
 - Assistance : https://antonin06340.github.io/retouche-pdf/assistance.html
 
-Contact : retouchpdf@gmail.com
+Contact : retouchepdf@gmail.com
